@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\BookStoreManagment\\BookStore.Api\\wwwroot\\Model.json",
+      "PackagePath": "staticwebassets\\Model.json"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\BookStoreManagment\\BookStore.Api\\wwwroot\\images\\photo_2024-02-23_15-10-25.jpg",
+      "PackagePath": "staticwebassets\\images\\photo_2024-02-23_15-10-25.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\BookStoreManagment\\BookStore.Api\\wwwroot\\verificationCode.txt",
+      "PackagePath": "staticwebassets\\verificationCode.txt"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.BookStore.Api.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.BookStore.Api.props",
+      "PackagePath": "build\\BookStore.Api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.BookStore.Api.props",
+      "PackagePath": "buildMultiTargeting\\BookStore.Api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.BookStore.Api.props",
+      "PackagePath": "buildTransitive\\BookStore.Api.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

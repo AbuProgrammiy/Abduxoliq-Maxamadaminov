@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "Hash": "78YZM6cxcRH4+NohF/fUheF9u4CltAgLXKrTzSJA+so=",
+  "Source": "BookStore.Api",
+  "BasePath": "_content/BookStore.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "BookStore.Api\\wwwroot",
+      "Source": "BookStore.Api",
+      "ContentRoot": "C:\\Users\\Hp\\source\\repos\\BookStoreManagment\\BookStore.Api\\wwwroot\\",
+      "BasePath": "_content/BookStore.Api",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Hp\\source\\repos\\BookStoreManagment\\BookStore.Api\\wwwroot\\images\\photo_2024-02-23_15-10-25.jpg",
+      "SourceId": "BookStore.Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Hp\\source\\repos\\BookStoreManagment\\BookStore.Api\\wwwroot\\",
+      "BasePath": "_content/BookStore.Api",
+      "RelativePath": "images/photo_2024-02-23_15-10-25.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\photo_2024-02-23_15-10-25.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Hp\\source\\repos\\BookStoreManagment\\BookStore.Api\\wwwroot\\Model.json",
+      "SourceId": "BookStore.Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Hp\\source\\repos\\BookStoreManagment\\BookStore.Api\\wwwroot\\",
+      "BasePath": "_content/BookStore.Api",
+      "RelativePath": "Model.json",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Model.json"
+    },
+    {
+      "Identity": "C:\\Users\\Hp\\source\\repos\\BookStoreManagment\\BookStore.Api\\wwwroot\\verificationCode.txt",
+      "SourceId": "BookStore.Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Hp\\source\\repos\\BookStoreManagment\\BookStore.Api\\wwwroot\\",
+      "BasePath": "_content/BookStore.Api",
+      "RelativePath": "verificationCode.txt",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\verificationCode.txt"
+    }
+  ]
+}

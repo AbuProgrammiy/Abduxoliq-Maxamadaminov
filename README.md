@@ -1,2 +1,2 @@
-# Abduxoliq-Maxamadaminov
-3-oy imtihon proyekti)
+## Crystal Clear Architecture asosida proyekt
+### Hammasi sip-sillliq ishlamoqda (muammosiz) 
